@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\OOPsystem\About\obj\Debug\net8.0-windows\About.About.resources
+C:\Users\Admin\source\repos\OOPsystem\About\obj\Debug\net8.0-windows\About.Resources.resources
+C:\Users\Admin\source\repos\OOPsystem\About\obj\Debug\net8.0-windows\About.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOPsystem\About\obj\Debug\net8.0-windows\About.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOPsystem\About\obj\Debug\net8.0-windows\About.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPsystem\About\obj\Debug\net8.0-windows\About.AssemblyInfo.vb
+C:\Users\Admin\source\repos\OOPsystem\About\obj\Debug\net8.0-windows\About.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOPsystem\About\obj\Debug\net8.0-windows\About.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOPsystem\About\obj\Debug\net8.0-windows\About.About.resources
+C:\Users\Admin\Desktop\OOPsystem\About\obj\Debug\net8.0-windows\About.Resources.resources
+C:\Users\Admin\Desktop\OOPsystem\About\obj\Debug\net8.0-windows\About.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\OOPsystem\About\obj\Debug\net8.0-windows\About.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\OOPsystem\About\obj\Debug\net8.0-windows\About.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OOPsystem\About\obj\Debug\net8.0-windows\About.AssemblyInfo.vb
+C:\Users\Admin\Desktop\OOPsystem\About\obj\Debug\net8.0-windows\About.vbproj.CoreCompileInputs.cache
