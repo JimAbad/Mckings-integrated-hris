@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\OOPsystem\HomePage\obj\Debug\net8.0-windows\HomePage.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOPsystem\HomePage\obj\Debug\net8.0-windows\HomePage.HomePage.resources
+C:\Users\Admin\Desktop\OOPsystem\HomePage\obj\Debug\net8.0-windows\HomePage.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\OOPsystem\HomePage\obj\Debug\net8.0-windows\HomePage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\OOPsystem\HomePage\obj\Debug\net8.0-windows\HomePage.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OOPsystem\HomePage\obj\Debug\net8.0-windows\HomePage.AssemblyInfo.vb
+C:\Users\Admin\Desktop\OOPsystem\HomePage\obj\Debug\net8.0-windows\HomePage.vbproj.CoreCompileInputs.cache
