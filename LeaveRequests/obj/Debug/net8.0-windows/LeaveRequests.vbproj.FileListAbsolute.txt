@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\OOPsystem\LeaveRequests\obj\Debug\net8.0-windows\LeaveRequests.LeaveRequests.resources
+C:\Users\Admin\source\repos\OOPsystem\LeaveRequests\obj\Debug\net8.0-windows\LeaveRequests.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOPsystem\LeaveRequests\obj\Debug\net8.0-windows\LeaveRequests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOPsystem\LeaveRequests\obj\Debug\net8.0-windows\LeaveRequests.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPsystem\LeaveRequests\obj\Debug\net8.0-windows\LeaveRequests.AssemblyInfo.vb
+C:\Users\Admin\source\repos\OOPsystem\LeaveRequests\obj\Debug\net8.0-windows\LeaveRequests.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOPsystem\LeaveRequests\obj\Debug\net8.0-windows\LeaveRequests.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOPsystem\LeaveRequests\obj\Debug\net8.0-windows\LeaveRequests.LeaveRequests.resources
+C:\Users\Admin\Desktop\OOPsystem\LeaveRequests\obj\Debug\net8.0-windows\LeaveRequests.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\OOPsystem\LeaveRequests\obj\Debug\net8.0-windows\LeaveRequests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\OOPsystem\LeaveRequests\obj\Debug\net8.0-windows\LeaveRequests.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OOPsystem\LeaveRequests\obj\Debug\net8.0-windows\LeaveRequests.AssemblyInfo.vb
+C:\Users\Admin\Desktop\OOPsystem\LeaveRequests\obj\Debug\net8.0-windows\LeaveRequests.vbproj.CoreCompileInputs.cache
