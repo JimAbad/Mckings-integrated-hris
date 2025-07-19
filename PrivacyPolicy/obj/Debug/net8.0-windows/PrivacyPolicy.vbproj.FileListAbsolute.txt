@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\OOPsystem\PrivacyPolicy\obj\Debug\net8.0-windows\PrivacyPolicy.Resources.resources
+C:\Users\Admin\source\repos\OOPsystem\PrivacyPolicy\obj\Debug\net8.0-windows\PrivacyPolicy.PrivacyPolicy.resources
+C:\Users\Admin\source\repos\OOPsystem\PrivacyPolicy\obj\Debug\net8.0-windows\PrivacyPolicy.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOPsystem\PrivacyPolicy\obj\Debug\net8.0-windows\PrivacyPolicy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOPsystem\PrivacyPolicy\obj\Debug\net8.0-windows\PrivacyPolicy.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPsystem\PrivacyPolicy\obj\Debug\net8.0-windows\PrivacyPolicy.AssemblyInfo.vb
+C:\Users\Admin\source\repos\OOPsystem\PrivacyPolicy\obj\Debug\net8.0-windows\PrivacyPolicy.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOPsystem\PrivacyPolicy\obj\Debug\net8.0-windows\PrivacyPolicy.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOPsystem\PrivacyPolicy\obj\Debug\net8.0-windows\PrivacyPolicy.Resources.resources
+C:\Users\Admin\Desktop\OOPsystem\PrivacyPolicy\obj\Debug\net8.0-windows\PrivacyPolicy.PrivacyPolicy.resources
+C:\Users\Admin\Desktop\OOPsystem\PrivacyPolicy\obj\Debug\net8.0-windows\PrivacyPolicy.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\OOPsystem\PrivacyPolicy\obj\Debug\net8.0-windows\PrivacyPolicy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\OOPsystem\PrivacyPolicy\obj\Debug\net8.0-windows\PrivacyPolicy.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OOPsystem\PrivacyPolicy\obj\Debug\net8.0-windows\PrivacyPolicy.AssemblyInfo.vb
+C:\Users\Admin\Desktop\OOPsystem\PrivacyPolicy\obj\Debug\net8.0-windows\PrivacyPolicy.vbproj.CoreCompileInputs.cache
