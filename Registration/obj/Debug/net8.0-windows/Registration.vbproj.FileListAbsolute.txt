@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\OOPsystem\Registration\obj\Debug\net8.0-windows\Registration.Registration.resources
+C:\Users\Admin\source\repos\OOPsystem\Registration\obj\Debug\net8.0-windows\Registration.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOPsystem\Registration\obj\Debug\net8.0-windows\Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOPsystem\Registration\obj\Debug\net8.0-windows\Registration.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPsystem\Registration\obj\Debug\net8.0-windows\Registration.AssemblyInfo.vb
+C:\Users\Admin\source\repos\OOPsystem\Registration\obj\Debug\net8.0-windows\Registration.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOPsystem\Registration\obj\Debug\net8.0-windows\Registration.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOPsystem\Registration\obj\Debug\net8.0-windows\Registration.Registration.resources
+C:\Users\Admin\Desktop\OOPsystem\Registration\obj\Debug\net8.0-windows\Registration.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\OOPsystem\Registration\obj\Debug\net8.0-windows\Registration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\OOPsystem\Registration\obj\Debug\net8.0-windows\Registration.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OOPsystem\Registration\obj\Debug\net8.0-windows\Registration.AssemblyInfo.vb
+C:\Users\Admin\Desktop\OOPsystem\Registration\obj\Debug\net8.0-windows\Registration.vbproj.CoreCompileInputs.cache
