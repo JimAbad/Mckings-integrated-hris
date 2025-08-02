@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\OOPsystem\TermsOfService\obj\Debug\net8.0-windows\TermsOfService.TermsOfService.resources
+C:\Users\Admin\source\repos\OOPsystem\TermsOfService\obj\Debug\net8.0-windows\TermsOfService.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOPsystem\TermsOfService\obj\Debug\net8.0-windows\TermsOfService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOPsystem\TermsOfService\obj\Debug\net8.0-windows\TermsOfService.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPsystem\TermsOfService\obj\Debug\net8.0-windows\TermsOfService.AssemblyInfo.vb
+C:\Users\Admin\source\repos\OOPsystem\TermsOfService\obj\Debug\net8.0-windows\TermsOfService.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\OOPsystem\TermsOfService\obj\Debug\net8.0-windows\TermsOfService.vbproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\OOPsystem\TermsOfService\obj\Debug\net8.0-windows\TermsOfService.TermsOfService.resources
+C:\Users\Admin\Desktop\OOPsystem\TermsOfService\obj\Debug\net8.0-windows\TermsOfService.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\OOPsystem\TermsOfService\obj\Debug\net8.0-windows\TermsOfService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\OOPsystem\TermsOfService\obj\Debug\net8.0-windows\TermsOfService.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\OOPsystem\TermsOfService\obj\Debug\net8.0-windows\TermsOfService.AssemblyInfo.vb
+C:\Users\Admin\Desktop\OOPsystem\TermsOfService\obj\Debug\net8.0-windows\TermsOfService.vbproj.CoreCompileInputs.cache
