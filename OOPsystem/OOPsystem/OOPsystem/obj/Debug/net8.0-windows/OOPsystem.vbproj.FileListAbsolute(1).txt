@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\bin\Debug\net8.0-windows\OOPsystem.exe
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\bin\Debug\net8.0-windows\OOPsystem.deps.json
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\bin\Debug\net8.0-windows\OOPsystem.runtimeconfig.json
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\bin\Debug\net8.0-windows\OOPsystem.dll
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\bin\Debug\net8.0-windows\OOPsystem.pdb
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\obj\Debug\net8.0-windows\OOPsystem.HomePage.resources
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\obj\Debug\net8.0-windows\OOPsystem.Resources.resources
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\obj\Debug\net8.0-windows\OOPsystem.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\obj\Debug\net8.0-windows\OOPsystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\obj\Debug\net8.0-windows\OOPsystem.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\obj\Debug\net8.0-windows\OOPsystem.AssemblyInfo.vb
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\obj\Debug\net8.0-windows\OOPsystem.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\obj\Debug\net8.0-windows\OOPsystem.dll
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\obj\Debug\net8.0-windows\refint\OOPsystem.dll
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\obj\Debug\net8.0-windows\OOPsystem.pdb
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\obj\Debug\net8.0-windows\OOPsystem.genruntimeconfig.cache
+C:\Users\Admin\source\repos\OOPsystem\OOPsystem\obj\Debug\net8.0-windows\ref\OOPsystem.dll

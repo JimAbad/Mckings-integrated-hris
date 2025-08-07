@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\OOPsystem\LogIn\bin\Debug\net8.0-windows\LogIn.exe
+C:\Users\Admin\source\repos\OOPsystem\LogIn\bin\Debug\net8.0-windows\LogIn.deps.json
+C:\Users\Admin\source\repos\OOPsystem\LogIn\bin\Debug\net8.0-windows\LogIn.runtimeconfig.json
+C:\Users\Admin\source\repos\OOPsystem\LogIn\bin\Debug\net8.0-windows\LogIn.dll
+C:\Users\Admin\source\repos\OOPsystem\LogIn\bin\Debug\net8.0-windows\LogIn.pdb
+C:\Users\Admin\source\repos\OOPsystem\LogIn\obj\Debug\net8.0-windows\LogIn.LogIn.resources
+C:\Users\Admin\source\repos\OOPsystem\LogIn\obj\Debug\net8.0-windows\LogIn.Resources.resources
+C:\Users\Admin\source\repos\OOPsystem\LogIn\obj\Debug\net8.0-windows\LogIn.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOPsystem\LogIn\obj\Debug\net8.0-windows\LogIn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOPsystem\LogIn\obj\Debug\net8.0-windows\LogIn.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPsystem\LogIn\obj\Debug\net8.0-windows\LogIn.AssemblyInfo.vb
+C:\Users\Admin\source\repos\OOPsystem\LogIn\obj\Debug\net8.0-windows\LogIn.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOPsystem\LogIn\obj\Debug\net8.0-windows\LogIn.dll
+C:\Users\Admin\source\repos\OOPsystem\LogIn\obj\Debug\net8.0-windows\refint\LogIn.dll
+C:\Users\Admin\source\repos\OOPsystem\LogIn\obj\Debug\net8.0-windows\LogIn.pdb
+C:\Users\Admin\source\repos\OOPsystem\LogIn\obj\Debug\net8.0-windows\LogIn.genruntimeconfig.cache
+C:\Users\Admin\source\repos\OOPsystem\LogIn\obj\Debug\net8.0-windows\ref\LogIn.dll

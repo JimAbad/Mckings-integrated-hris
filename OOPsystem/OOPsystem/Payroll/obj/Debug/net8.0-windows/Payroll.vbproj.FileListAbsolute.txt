@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\OOPsystem\Payroll\obj\Debug\net8.0-windows\Payroll.Resources.resources
+C:\Users\Admin\source\repos\OOPsystem\Payroll\obj\Debug\net8.0-windows\Payroll.Payroll.resources
+C:\Users\Admin\source\repos\OOPsystem\Payroll\obj\Debug\net8.0-windows\Payroll.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOPsystem\Payroll\obj\Debug\net8.0-windows\Payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOPsystem\Payroll\obj\Debug\net8.0-windows\Payroll.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPsystem\Payroll\obj\Debug\net8.0-windows\Payroll.AssemblyInfo.vb
+C:\Users\Admin\source\repos\OOPsystem\Payroll\obj\Debug\net8.0-windows\Payroll.vbproj.CoreCompileInputs.cache

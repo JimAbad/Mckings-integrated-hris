@@ -1,0 +1,17 @@
+C:\Users\Admin\source\repos\OOPsystem\Attendance\bin\Debug\net8.0-windows\Attendance.exe
+C:\Users\Admin\source\repos\OOPsystem\Attendance\bin\Debug\net8.0-windows\Attendance.deps.json
+C:\Users\Admin\source\repos\OOPsystem\Attendance\bin\Debug\net8.0-windows\Attendance.runtimeconfig.json
+C:\Users\Admin\source\repos\OOPsystem\Attendance\bin\Debug\net8.0-windows\Attendance.dll
+C:\Users\Admin\source\repos\OOPsystem\Attendance\bin\Debug\net8.0-windows\Attendance.pdb
+C:\Users\Admin\source\repos\OOPsystem\Attendance\obj\Debug\net8.0-windows\Attendance.Attendance.resources
+C:\Users\Admin\source\repos\OOPsystem\Attendance\obj\Debug\net8.0-windows\Attendance.Resources.resources
+C:\Users\Admin\source\repos\OOPsystem\Attendance\obj\Debug\net8.0-windows\Attendance.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\OOPsystem\Attendance\obj\Debug\net8.0-windows\Attendance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOPsystem\Attendance\obj\Debug\net8.0-windows\Attendance.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOPsystem\Attendance\obj\Debug\net8.0-windows\Attendance.AssemblyInfo.vb
+C:\Users\Admin\source\repos\OOPsystem\Attendance\obj\Debug\net8.0-windows\Attendance.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOPsystem\Attendance\obj\Debug\net8.0-windows\Attendance.dll
+C:\Users\Admin\source\repos\OOPsystem\Attendance\obj\Debug\net8.0-windows\refint\Attendance.dll
+C:\Users\Admin\source\repos\OOPsystem\Attendance\obj\Debug\net8.0-windows\Attendance.pdb
+C:\Users\Admin\source\repos\OOPsystem\Attendance\obj\Debug\net8.0-windows\Attendance.genruntimeconfig.cache
+C:\Users\Admin\source\repos\OOPsystem\Attendance\obj\Debug\net8.0-windows\ref\Attendance.dll
